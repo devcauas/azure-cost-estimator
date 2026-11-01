@@ -1,5 +1,5 @@
 # Azure Cost Estimator
-**Programa Aceleras (Dataside) · Desenvolvido por Natália Rodrigues e Cauã Souza Almeida**
+**Programa Acelera Jovem (Dataside) · Desenvolvido por Natália Rodrigues e Cauã Souza Almeida**
 
 > Versão pública do projeto: nomes de clientes e de pessoas entrevistadas foram anonimizados (Cliente A, B e C; Arquitetos 1, 2 e 3). Os valores de referência foram mantidos para demonstrar a metodologia de validação.
 
@@ -53,7 +53,7 @@ Uma ferramenta web interna onde o arquiteto descreve a arquitetura **uma vez** �
 | **PostgreSQL** | Aparece em apenas 1 dos 3 casos reais (Cliente A) |
 | **Microsoft Fabric** | Frequência baixa (10% da esteira do Arquiteto 3); modelo de cobrança por capacidade incompatível com o modelo serviço-a-serviço do MVP |
 
-> **Princípio aplicado:** *"Uma coisa que roda vale mais que tudo pela metade."* — Material do desafio Aceleras
+> **Princípio aplicado:** *"Uma coisa que roda vale mais que tudo pela metade."* — Material do Desafio Final do Programa Acelera Jovem
 
 ---
 
@@ -221,4 +221,4 @@ Os 2 casos disponíveis foram usados tanto na calibração quanto na validação
 
 ---
 
-*Programa Aceleras — Dataside · Junho 2026*
+*Programa Acelera Jovem — Dataside · Junho 2026*
